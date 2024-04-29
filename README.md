@@ -1,3 +1,5 @@
+# This is a joint collaboration project from Alan (Hong Kong) and Andrew (Egypt)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
