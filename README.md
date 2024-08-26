@@ -1,4 +1,7 @@
-# This is a joint collaboration project from Alan (Hong Kong) and Andrew (Egypt)
+# This is a joint collaboration project from Alan (Hong Kong) and Andrew Emad Gabra (Egypt)
+
+The joint collaboration project is programmed within 2 parties, I Alan responsible for the backended and Andrew
+is responsible for the client side. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
