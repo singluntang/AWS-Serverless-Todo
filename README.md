@@ -4,6 +4,8 @@ The joint collaboration project is programmed within 2 parties, I Alan responsib
 is responsible for the client side. Andrew is also main responsible for programming the serverless yaml file and
 for the pattern and style formating.
 
+Apart from the above statement, the below README.md is written entirely by Andrew.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
