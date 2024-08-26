@@ -1,7 +1,8 @@
 # This is a joint collaboration project from Alan (Hong Kong) and Andrew Emad Gabra (Egypt)
 
 The joint collaboration project is programmed within 2 parties, I Alan responsible for the backended and Andrew
-is responsible for the client side. 
+is responsible for the client side. Andrew is also main responsible for programming the serverless yaml file and
+for the pattern and style formating.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
